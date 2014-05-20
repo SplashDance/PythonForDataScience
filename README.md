@@ -18,4 +18,4 @@ To run this code, you will a files called train.csv and test.csv in a \data fold
 
 
 -------------------
-[Note: This repo was cloned from **chrisclark**'s repo of the same name]
+[Note: This repo was cloned from [chrisclark's](https://github.com/chrisclark/PythonForDataScience) repo of the same name.]
